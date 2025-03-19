@@ -19,7 +19,7 @@ pip install selenium beautifulsoup4
 
 ## Configuración
 
-1. **Descargar el controlador de Chrome**: Asegúrate de tener el controlador de Chrome (`chromedriver`) instalado y que esté en tu PATH. Puedes descargarlo desde [aquí](https://sites.google.com/a/chromium.org/chromedriver/downloads).
+1. **Descargar el controlador de Chrome**: Asegúrate de tener el controlador de Chrome (`chromedriver`) instalado y que esté en tu PATH. Puedes descargarlo desde [aquí](https://developer.chrome.com/docs/chromedriver/downloads?hl=es-419).
 
 2. **Configurar las opciones de Selenium**: El script está configurado para usar Chrome como navegador. Si deseas usar otro navegador, deberás modificar las opciones de Selenium en el código.
 
